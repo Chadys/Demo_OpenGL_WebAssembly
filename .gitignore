@@ -1,0 +1,6 @@
+# files for debug and testing of library functions
+
+bin/*
+.idea/*
+cmake-build-debug/*
+cache/*
